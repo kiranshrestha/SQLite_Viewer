@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/SQLite Viewer/task/build/
+/SQLite Viewer/task/out/
+/SQLite Viewer/task/out/production/classes/
+/Topics/Anonymous classes properties/Managing a process/out/
+/Topics/Anonymous classes properties/Managing a process/out/production/classes/
+/Topics/Custom threads/String processor/out/
+/Topics/Custom threads/String processor/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
